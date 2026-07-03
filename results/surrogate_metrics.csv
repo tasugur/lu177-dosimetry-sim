@@ -1,0 +1,16 @@
+Target,R2_test,MAE_test,CV_R2_mean,CV_R2_std
+Kidney Absorbed Dose (Gy/cycle) [mean],0.9989,0.0192,0.9988,0.0001
+Kidney Absorbed Dose (Gy/cycle) [p025],0.9973,0.023,0.997,0.0001
+Kidney Absorbed Dose (Gy/cycle) [p975],0.9972,0.0421,0.997,0.0001
+Whole-Body Tumor Absorbed Dose (Gy/cycle) [mean],0.9995,0.0962,0.9994,0.0
+Whole-Body Tumor Absorbed Dose (Gy/cycle) [p025],0.9985,0.1096,0.9982,0.0001
+Whole-Body Tumor Absorbed Dose (Gy/cycle) [p975],0.9984,0.26,0.9983,0.0001
+Tumor-to-Kidney Therapeutic Ratio [mean],0.9965,0.105,0.9962,0.0005
+Tumor-to-Kidney Therapeutic Ratio [p025],0.9949,0.0752,0.9946,0.0004
+Tumor-to-Kidney Therapeutic Ratio [p975],0.9954,0.2036,0.9946,0.0005
+Renal-Constrained Max Cumulative Activity (GBq) [mean],0.9974,0.4853,0.9965,0.0006
+Renal-Constrained Max Cumulative Activity (GBq) [p025],0.9938,0.5972,0.9932,0.0007
+Renal-Constrained Max Cumulative Activity (GBq) [p975],0.9938,1.0441,0.993,0.0004
+Parotid Gland Absorbed Dose (Gy/cycle) [mean],0.9992,0.0186,0.9992,0.0
+Parotid Gland Absorbed Dose (Gy/cycle) [p025],0.9949,0.0328,0.9952,0.0002
+Parotid Gland Absorbed Dose (Gy/cycle) [p975],0.9954,0.0607,0.9954,0.0002

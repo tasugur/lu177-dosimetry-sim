@@ -1,0 +1,43 @@
+{
+  "source": "Violet et al. J Nucl Med 2019;60:517-523",
+  "units": "Gy/GBq",
+  "dose_coefficients": {
+    "kidney":           0.39,
+    "parotid":          0.58,
+    "submandibular":    0.44,
+    "lacrimal":         0.36,
+    "liver":            0.10,
+    "spleen":           0.06,
+    "bone_marrow":      0.11,
+    "tumor_bone":       5.28,
+    "tumor_nodal":      3.91
+  },
+  "whole_body_tumor_dose_gy": {
+    "median": 11.55,
+    "mean":   12.55
+  },
+  "mean_administered_activity_gbq": 7.8,
+  "renal_cumulative_dose_constraint_gy": 23.0,
+  "lu177_physical_half_life_hours": 159.5,
+  "literature_concordance": {
+    "Fendler2017": {
+      "kidney_left_gy_per_gbq":  0.5,
+      "kidney_right_gy_per_gbq": 0.6,
+      "salivary_gy_per_gbq":     1.0,
+      "tumor_gy_per_gbq":        6.1
+    },
+    "Takano2025": {
+      "kidney_gy_per_gbq":               0.34,
+      "blood_terminal_halflife_hours":    28.9,
+      "systemic_clearance_l_per_h":       1.71,
+      "estimated_cumulative_renal_gy":   15.0
+    },
+    "Jackson2022_review": {
+      "kidney_gy_per_gbq_range": [0.4, 1.0],
+      "kidney_gy_per_gbq_typical": 0.6,
+      "interindividual_sd_percent": 32.5
+    }
+  }
+}
+
+

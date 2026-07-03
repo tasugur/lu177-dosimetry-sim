@@ -1,0 +1,6 @@
+config,kidney_med_dose,tumor_med_dose,kidney_95width_Gy,kidney_95width_rel,tumor_95width_Gy,tumor_95width_rel,maxact_95width_GBq,mean_feasibility_pct,pct_ge95_feasible
+baseline,2.75,10.911,1.564,0.574,9.099,0.834,36.15,91.5,69.4
+amp_x0.5,2.75,10.922,1.093,0.402,5.261,0.482,25.05,93.1,79.1
+amp_x2,2.75,10.907,2.741,1.001,17.651,1.617,66.05,87.0,40.6
+tac_x0.5,2.753,10.942,1.387,0.509,8.718,0.797,31.93,92.0,72.9
+tac_x2,2.735,10.812,2.108,0.775,10.457,0.967,50.48,89.7,57.3
