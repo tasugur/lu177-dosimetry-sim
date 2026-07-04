@@ -1,11 +1,6 @@
-# Streamlit theme for the [177Lu]Lu-PSMA-617 dosimetry simulator.
-# Slate-blue palette, matching the manuscript figures and editor report.
-# This only restyles the UI (buttons, slider, radio, links, focus rings).
-# It does NOT affect any model, computation, or output value.
-
 [theme]
-primaryColor = "#1F4E79"              # slate blue — buttons, slider, radio, links
-backgroundColor = "#FFFFFF"           # main canvas
-secondaryBackgroundColor = "#EAF0FA"  # sidebars, tables, expanders, inputs
-textColor = "#1A2330"                 # near-black body text
+primaryColor = "#1F4E79"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EAF0FA"
+textColor = "#1A2330"
 font = "sans serif"
