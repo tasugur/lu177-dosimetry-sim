@@ -290,7 +290,7 @@ if mode == "Fixed activity (all cycles equal)":
                             label="95% MC uncertainty")
             ax.axhline(RENAL_LIMIT, color="red", lw=2, linestyle="--",
                        label=f"{RENAL_LIMIT:.0f} Gy renal threshold")
-            ax.axvline(cycle_cross, color="orange", lw=1.5, linestyle=":",
+            ax.axvline(cycle_cross, color="#374151", lw=1.5, linestyle=":",
                        label=f"Threshold at cycle {cycle_cross:.1f} (mean)")
             ax.set_xlabel("Treatment cycle")
             ax.set_ylabel("Cumulative kidney dose (Gy)")
