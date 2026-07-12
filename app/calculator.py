@@ -576,8 +576,6 @@ with col_f1:
 with col_f2:
     st.info(
         "**External Validation**\n\n"
-        "This tool has not yet been externally validated against independent "
-        "patient-level dosimetry data. Researchers interested in external "
-        "validation or collaborative model evaluation are welcome to get in touch.\n\n"
-        "Contact: ugurtasdr@gmail.com"
+        "This tool has not been externally validated against independent "
+        "patient-level dosimetry data. Outputs are simulation estimates."
     )
