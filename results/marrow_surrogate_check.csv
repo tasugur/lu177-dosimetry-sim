@@ -1,6 +1,0 @@
-quantity,value,manuscript
-R2 surrogate on marrow mean (with residual),0.4776,~0.48-0.52
-R2 surrogate on kidney mean (contrast),0.9987,>0.99
-log-residual SD,0.2022,~0.20
-max |corr| residual vs feature,0.0125,<=0.02
-R2 surrogate on marrow with residual removed,0.9997,~1.0
